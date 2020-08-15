@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_credit"
+        android:title="@string/credits"
+        android:icon="@drawable/ic_arrow_downward_black_24dp"/>
+    <item
+        android:id="@+id/action_account"
+        android:title="@string/account" />
+    <item
+        android:id="@+id/action_debit"
+        android:title="@string/debits"
+        android:icon="@drawable/ic_arrow_upward_black_24dp"/>
+</menu>
